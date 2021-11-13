@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "JSON Formatter",
+  "name": "JSON Formatter / Highlighter",
+  "description": "A little JSON formatter and syntax highlighter",
   "icons": [
     {
       "src": "favicon-16x16.png",
@@ -31,5 +32,6 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#232B55",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "skylink": "AQD4tpSYA4eKuoA80zmQlizf2-4jCAmE0O35jl6fcE1Alg"
 }
